@@ -4,7 +4,6 @@
 	"Author": "Reherc",
 	"Contact": "Github: @REHERC",
 	"ModuleFileName": "Distance.ChristmasSeasonalFeatures.dll",
-	"Dependencies": [],
 	"RequiredGSLs": [
 		"com.github.reherc/Centrifuge.Distance"
 	],
